@@ -1,0 +1,7 @@
+# Runtime file storage for task inputs, parsed data, renders, and deliverables.
+/storage/
+
+# Local configuration directories for AI coding tools.
+/.agents/
+/.codex/
+/.claude/
