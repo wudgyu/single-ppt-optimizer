@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ppt-single-slide-optimizer/schemas/common.schema.json",
+  "title": "Common Contract Envelope",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    }
+  },
+  "required": ["schema_version"],
+  "additionalProperties": true
+}

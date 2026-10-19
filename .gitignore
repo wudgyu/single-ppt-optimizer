@@ -5,3 +5,18 @@
 /.agents/
 /.codex/
 /.claude/
+
+# Local build and test artifacts.
+/.venv/
+/.mypy_cache/
+/.pytest_cache/
+/.ruff_cache/
+__pycache__/
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.next/
+dist/
+*.tsbuildinfo
